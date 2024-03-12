@@ -36,6 +36,6 @@ Q.4 Answer: Machine learning | Robotics.
 
 Q.5 Answer: Statistics. 
 
-#### Exercise 4 Definitions, definitions
+#### Exercise 4: Definitions, definitions
 Answer: Good definition would be "machines imitating intelligent human behavior", "cool things that computers can't do". Yes, in contrast "autonomous and adaptive systems" would be directly related to Deep learning.
 
