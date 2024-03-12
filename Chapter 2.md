@@ -6,3 +6,6 @@ NNNN -> FNFN -> NNFN -> FFFN -> NFNN -> FFNF -> NFNF -> FFFF. | NNNN -> FNFN -> 
 
 #### Exercise 6: The Towers of Hanoi 
 Answer: Box 1 = State E | Box 2 = State B | Box 3 = State F | Box 4 = State D | Box 5 = State C | Box 6 = State A.
+
+#### Exercise 7: Why so pessimistic, Max?
+Answer: -1
