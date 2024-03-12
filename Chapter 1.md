@@ -9,7 +9,7 @@ Q.3 Answer: Yes (Geometry and signal processing aren’t to be considered AI but
 
 could be optimal suggestions for navigation - taking traffic into account).
 
-Q.4 AAnswerns: Yes (Not limited to listening behavior). 
+Q.4 Answerns: Yes (Not limited to listening behavior). 
 
 Q.5 Answer: No (Examples such as color balance, contrast, and so).
 
