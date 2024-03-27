@@ -1,4 +1,4 @@
-# Chapter 1 - What is Ai? 
+# Chapter 1 - What is AI? 
 #### Exercise 1: Is this AI or not?
 
 Q.1 Answer: No (Only usage of formulas is required, not Ai). 
