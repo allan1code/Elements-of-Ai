@@ -23,5 +23,8 @@ Q.2 (C) Answer: 84.
 #### Exercise 17: Life expectancy and education (part 1 of 2)
 Answer: It is probably less than 90.
 
+#### Exercise 18: Life expectancy and education (part 2 of 2)
+Answer: Probably between 50 and 90 years.
+
 #### Exercise 19: Logistic regression 
 Answer: 10-11 hours.
