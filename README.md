@@ -11,4 +11,4 @@ University of Helsinki and MinnaLearn.
 
 [Chapter 3 - Real world AI?](https://github.com/allan1code/Elements-of-Ai-Solutions/tree/main/Chapter%203%20-%20Real%20world%20AI)
 
-[Chapter 4 - Machine Learning](https://github.com/allan1code/Elements-of-Ai-Solutions/tree/main/Chapter%204%20-%20Machine%20Learning)
+[Chapter 4 - Machine Learning](https://github.com/allan1code/Elements-of-Ai/tree/main/Chapter%204%20-%20Machine%20learning)
